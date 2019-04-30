@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FB Application Test Suite">
+  <test name="FB Test cases">
+    <classes>
+      <class name="com.fb.qa.testcases.LoginPageTest"/>
+       <class name="com.fb.qa.testcases.HomePageTest"/>
+        <class name="com.fb.qa.testcases.FindFriendsTest"/>
+    </classes>
+  </test>
+</suite>

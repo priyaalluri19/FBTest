@@ -1,0 +1,8 @@
+com\fb\qa\pages\MarketPage.class
+com\fb\qa\pages\HomePage.class
+com\fb\qa\pages\LoginPage.class
+com\fb\qa\pages\SignUpPage.class
+com\fb\qa\util\TestUtil.class
+com\fb\qa\pages\FindFriends.class
+com\fb\qa\pages\NotificationsPage.class
+com\fb\qa\base\TestBase.class
